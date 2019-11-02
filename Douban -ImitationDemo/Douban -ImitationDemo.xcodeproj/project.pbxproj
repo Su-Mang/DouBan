@@ -46,6 +46,7 @@
 		7C25B56F235B6CA7003F1DDF /* xiajiantou.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C25B56E235B6CA6003F1DDF /* xiajiantou.png */; };
 		7C25B571235B7A1E003F1DDF /* changyongtubiao-xianxingdaochu-zhuanqu--3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C25B570235B7A1E003F1DDF /* changyongtubiao-xianxingdaochu-zhuanqu--3.png */; };
 		7C2863BE23574A06006E244E /* DBBookViewButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2863BD23574A06006E244E /* DBBookViewButton.m */; };
+		7C2A7E61236D55E0005D9462 /* DBAllHaveModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2A7E60236D55E0005D9462 /* DBAllHaveModel.m */; };
 		7C2AF4A4235347290029D137 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AF4A3235347290029D137 /* AppDelegate.m */; };
 		7C2AF4A7235347290029D137 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AF4A6235347290029D137 /* ViewController.m */; };
 		7C2AF4AA235347290029D137 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C2AF4A8235347290029D137 /* Main.storyboard */; };
@@ -60,8 +61,10 @@
 		7C36F67E235DCFB3003F9BFF /* xingxing-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C36F67D235DCFB3003F9BFF /* xingxing-2.png */; };
 		7C36F681235DD910003F9BFF /* DBAllCellOne.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C36F680235DD910003F9BFF /* DBAllCellOne.m */; };
 		7C383BE72358979D000A864E /* DBBookViewUpTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C383BE62358979D000A864E /* DBBookViewUpTwo.m */; };
+		7C38B75C236C5531000ECEA6 /* WeChat3fb6b469ba87d0faa182d9411097f508.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C38B75B236C5530000ECEA6 /* WeChat3fb6b469ba87d0faa182d9411097f508.png */; };
 		7C784116235985C60040CB4A /* D9405BAB-2849-4622-90D5-B3190E56DCF1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C784115235985C60040CB4A /* D9405BAB-2849-4622-90D5-B3190E56DCF1.png */; };
 		7C78411823598B660040CB4A /* youjiantou-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C78411723598B660040CB4A /* youjiantou-2.png */; };
+		7CAAD210236AA11A00F074A8 /* DBBookViewUpTwo+Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CAAD20F236AA11A00F074A8 /* DBBookViewUpTwo+Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -121,6 +124,8 @@
 		7C25B570235B7A1E003F1DDF /* changyongtubiao-xianxingdaochu-zhuanqu--3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "changyongtubiao-xianxingdaochu-zhuanqu--3.png"; sourceTree = "<group>"; };
 		7C2863BC23574A06006E244E /* DBBookViewButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DBBookViewButton.h; sourceTree = "<group>"; };
 		7C2863BD23574A06006E244E /* DBBookViewButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DBBookViewButton.m; sourceTree = "<group>"; };
+		7C2A7E5F236D55E0005D9462 /* DBAllHaveModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DBAllHaveModel.h; sourceTree = "<group>"; };
+		7C2A7E60236D55E0005D9462 /* DBAllHaveModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DBAllHaveModel.m; sourceTree = "<group>"; };
 		7C2AF49F235347290029D137 /* Douban -ImitationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Douban -ImitationDemo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C2AF4A2235347290029D137 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7C2AF4A3235347290029D137 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -144,8 +149,11 @@
 		7C36F680235DD910003F9BFF /* DBAllCellOne.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DBAllCellOne.m; sourceTree = "<group>"; };
 		7C383BE52358979D000A864E /* DBBookViewUpTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DBBookViewUpTwo.h; sourceTree = "<group>"; };
 		7C383BE62358979D000A864E /* DBBookViewUpTwo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DBBookViewUpTwo.m; sourceTree = "<group>"; };
+		7C38B75B236C5530000ECEA6 /* WeChat3fb6b469ba87d0faa182d9411097f508.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WeChat3fb6b469ba87d0faa182d9411097f508.png; sourceTree = "<group>"; };
 		7C784115235985C60040CB4A /* D9405BAB-2849-4622-90D5-B3190E56DCF1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "D9405BAB-2849-4622-90D5-B3190E56DCF1.png"; sourceTree = "<group>"; };
 		7C78411723598B660040CB4A /* youjiantou-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "youjiantou-2.png"; sourceTree = "<group>"; };
+		7CAAD20E236AA11A00F074A8 /* DBBookViewUpTwo+Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DBBookViewUpTwo+Test.h"; sourceTree = "<group>"; };
+		7CAAD20F236AA11A00F074A8 /* DBBookViewUpTwo+Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "DBBookViewUpTwo+Test.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -307,6 +315,8 @@
 				7C1D5C312355F5E0001AE7CC /* DBBookVIew.m */,
 				7C383BE52358979D000A864E /* DBBookViewUpTwo.h */,
 				7C383BE62358979D000A864E /* DBBookViewUpTwo.m */,
+				7CAAD20E236AA11A00F074A8 /* DBBookViewUpTwo+Test.h */,
+				7CAAD20F236AA11A00F074A8 /* DBBookViewUpTwo+Test.m */,
 				7C2176F42356C01F00E8CC7F /* DBBookViewUp.h */,
 				7C2176F52356C01F00E8CC7F /* DBBookViewUp.m */,
 				7C2176FA2356C11900E8CC7F /* DBVIewForBookButton.h */,
@@ -350,6 +360,7 @@
 		7C25B563235B5EAA003F1DDF /* AllPage */ = {
 			isa = PBXGroup;
 			children = (
+				7C2A7E5B236D5596005D9462 /* M */,
 				7C25B565235B5ED7003F1DDF /* V */,
 				7C25B564235B5EC9003F1DDF /* C */,
 				7C25B560235B5E59003F1DDF /* DBAllViewController.h */,
@@ -380,6 +391,15 @@
 			path = V;
 			sourceTree = "<group>";
 		};
+		7C2A7E5B236D5596005D9462 /* M */ = {
+			isa = PBXGroup;
+			children = (
+				7C2A7E5F236D55E0005D9462 /* DBAllHaveModel.h */,
+				7C2A7E60236D55E0005D9462 /* DBAllHaveModel.m */,
+			);
+			path = M;
+			sourceTree = "<group>";
+		};
 		7C2AF496235347290029D137 = {
 			isa = PBXGroup;
 			children = (
@@ -402,6 +422,7 @@
 		7C2AF4A1235347290029D137 /* Douban -ImitationDemo */ = {
 			isa = PBXGroup;
 			children = (
+				7C38B75B236C5530000ECEA6 /* WeChat3fb6b469ba87d0faa182d9411097f508.png */,
 				7C25B570235B7A1E003F1DDF /* changyongtubiao-xianxingdaochu-zhuanqu--3.png */,
 				7C78411723598B660040CB4A /* youjiantou-2.png */,
 				7C784115235985C60040CB4A /* D9405BAB-2849-4622-90D5-B3190E56DCF1.png */,
@@ -511,6 +532,7 @@
 				7C1D5C192355BF63001AE7CC /* wode.png in Resources */,
 				7C784116235985C60040CB4A /* D9405BAB-2849-4622-90D5-B3190E56DCF1.png in Resources */,
 				7C1D5C262355C3F6001AE7CC /* saoyisao.png in Resources */,
+				7C38B75C236C5531000ECEA6 /* WeChat3fb6b469ba87d0faa182d9411097f508.png in Resources */,
 				7C2AF4AC235347380029D137 /* Assets.xcassets in Resources */,
 				7C1D5C1B2355C05C001AE7CC /* shichangdongtai.png in Resources */,
 				7C1D5C172355BEF3001AE7CC /* dianying.png in Resources */,
@@ -570,6 +592,7 @@
 				7C25B551235ABB2A003F1DDF /* DBBookButtonTableViewCell.m in Sources */,
 				7C36793B2361A7D600E328A7 /* DBBookPageModel.m in Sources */,
 				7C1D5BF823557183001AE7CC /* DBSkipViewController.m in Sources */,
+				7CAAD210236AA11A00F074A8 /* DBBookViewUpTwo+Test.m in Sources */,
 				7C1D5C202355C1FE001AE7CC /* DBHomeView.m in Sources */,
 				7C2AF4B2235347380029D137 /* main.m in Sources */,
 				7C1D5C01235572FD001AE7CC /* DBBookViewController.m in Sources */,
@@ -581,6 +604,7 @@
 				7C1D5BFC23557210001AE7CC /* DBHomeViewController.m in Sources */,
 				7C2176FC2356C11900E8CC7F /* DBVIewForBookButton.m in Sources */,
 				7C25B568235B5F09003F1DDF /* DBAllView.m in Sources */,
+				7C2A7E61236D55E0005D9462 /* DBAllHaveModel.m in Sources */,
 				7C25B56B235B5F9E003F1DDF /* DBAllViewNav.m in Sources */,
 				7C1D5C322355F5E0001AE7CC /* DBBookVIew.m in Sources */,
 				7C25B562235B5E59003F1DDF /* DBAllViewController.m in Sources */,
